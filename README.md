@@ -11,7 +11,7 @@ Written in [Go](https://golang.org/). Runs on Windows and Linux.
 
 Put the list of all websites to check in `input.txt`. 
 
-Run `cuw` program.
+Run `cuw.exe` in windows, `cuw.sh` for linux.
 
 Output progress will be shown in window and list of unblocked websites will be in `output.txt`.
 
